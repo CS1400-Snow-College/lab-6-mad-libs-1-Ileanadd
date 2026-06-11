@@ -1,0 +1,5 @@
+/Users/ileanagonzalez/Desktop/CS1400/CSharpProjects/CS1405/my-code-dir/lab-6-mad-libs-1-Ileanadd/obj/Debug/net8.0/lab-6-mad-libs-1-Ileanadd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ileanagonzalez/Desktop/CS1400/CSharpProjects/CS1405/my-code-dir/lab-6-mad-libs-1-Ileanadd/obj/Debug/net8.0/lab-6-mad-libs-1-Ileanadd.AssemblyInfoInputs.cache
+/Users/ileanagonzalez/Desktop/CS1400/CSharpProjects/CS1405/my-code-dir/lab-6-mad-libs-1-Ileanadd/obj/Debug/net8.0/lab-6-mad-libs-1-Ileanadd.AssemblyInfo.cs
+/Users/ileanagonzalez/Desktop/CS1400/CSharpProjects/CS1405/my-code-dir/lab-6-mad-libs-1-Ileanadd/obj/Debug/net8.0/lab-6-mad-libs-1-Ileanadd.csproj.CoreCompileInputs.cache
+/Users/ileanagonzalez/Desktop/CS1400/CSharpProjects/CS1405/my-code-dir/lab-6-mad-libs-1-Ileanadd/obj/Debug/net8.0/lab-6-mad-libs-1-Ileanadd.sourcelink.json
