@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab-6-mad-libs-1-Ileanadd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7adf7bed038f9f189c17272bedd032bf29cb62c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb5868e328e76aecc40a6de69cf76dd684547ff8")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab-6-mad-libs-1-Ileanadd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab-6-mad-libs-1-Ileanadd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

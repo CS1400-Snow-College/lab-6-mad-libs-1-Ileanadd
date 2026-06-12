@@ -3,3 +3,13 @@
 /Users/ileanagonzalez/Desktop/CS1400/CSharpProjects/CS1405/my-code-dir/lab-6-mad-libs-1-Ileanadd/obj/Debug/net8.0/lab-6-mad-libs-1-Ileanadd.AssemblyInfo.cs
 /Users/ileanagonzalez/Desktop/CS1400/CSharpProjects/CS1405/my-code-dir/lab-6-mad-libs-1-Ileanadd/obj/Debug/net8.0/lab-6-mad-libs-1-Ileanadd.csproj.CoreCompileInputs.cache
 /Users/ileanagonzalez/Desktop/CS1400/CSharpProjects/CS1405/my-code-dir/lab-6-mad-libs-1-Ileanadd/obj/Debug/net8.0/lab-6-mad-libs-1-Ileanadd.sourcelink.json
+/Users/ileanagonzalez/Desktop/CS1400/CSharpProjects/CS1405/my-code-dir/lab-6-mad-libs-1-Ileanadd/bin/Debug/net8.0/lab-6-mad-libs-1-Ileanadd
+/Users/ileanagonzalez/Desktop/CS1400/CSharpProjects/CS1405/my-code-dir/lab-6-mad-libs-1-Ileanadd/bin/Debug/net8.0/lab-6-mad-libs-1-Ileanadd.deps.json
+/Users/ileanagonzalez/Desktop/CS1400/CSharpProjects/CS1405/my-code-dir/lab-6-mad-libs-1-Ileanadd/bin/Debug/net8.0/lab-6-mad-libs-1-Ileanadd.runtimeconfig.json
+/Users/ileanagonzalez/Desktop/CS1400/CSharpProjects/CS1405/my-code-dir/lab-6-mad-libs-1-Ileanadd/bin/Debug/net8.0/lab-6-mad-libs-1-Ileanadd.dll
+/Users/ileanagonzalez/Desktop/CS1400/CSharpProjects/CS1405/my-code-dir/lab-6-mad-libs-1-Ileanadd/bin/Debug/net8.0/lab-6-mad-libs-1-Ileanadd.pdb
+/Users/ileanagonzalez/Desktop/CS1400/CSharpProjects/CS1405/my-code-dir/lab-6-mad-libs-1-Ileanadd/obj/Debug/net8.0/lab-6-mad-libs-1-Ileanadd.dll
+/Users/ileanagonzalez/Desktop/CS1400/CSharpProjects/CS1405/my-code-dir/lab-6-mad-libs-1-Ileanadd/obj/Debug/net8.0/refint/lab-6-mad-libs-1-Ileanadd.dll
+/Users/ileanagonzalez/Desktop/CS1400/CSharpProjects/CS1405/my-code-dir/lab-6-mad-libs-1-Ileanadd/obj/Debug/net8.0/lab-6-mad-libs-1-Ileanadd.pdb
+/Users/ileanagonzalez/Desktop/CS1400/CSharpProjects/CS1405/my-code-dir/lab-6-mad-libs-1-Ileanadd/obj/Debug/net8.0/lab-6-mad-libs-1-Ileanadd.genruntimeconfig.cache
+/Users/ileanagonzalez/Desktop/CS1400/CSharpProjects/CS1405/my-code-dir/lab-6-mad-libs-1-Ileanadd/obj/Debug/net8.0/ref/lab-6-mad-libs-1-Ileanadd.dll
